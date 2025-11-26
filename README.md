@@ -1,2 +1,4 @@
-# Data-Driven_Destination_Marketing
-Predicting Travel Video Engagement through Novelty, Metadata, and Seasonality
+# Data-Driven_Destination_Marketing: Predicting Travel Video Engagement through Novelty, Metadata, and Seasonality
+Abstract: 
+
+As digital media increasingly shapes destination image and tourist behavior, understanding what drives the popularity of travel vlogs has become vital for tourism management. This study examines how metadata, content novelty, and seasonal timing influence the success of YouTube travel videos, using two diverse geographical country (China and France). Machine learning-based analysis reveal that metadata richness and subscriber base significantly predict popularity, while content novelty exhibits a U-shaped effect both highly familiar and highly novel videos perform best. Seasonal timing affects France-related content, reflecting travel demand patterns. Among predictive models, Random Forest achieved the highest accuracy, indicating that non-sequential, metadata-driven approaches outperform temporal ones. The findings extend destination image and tourism demand theories by linking digital engagement dynamics to travel interest cycles, offering actionable insights for destination marketing organizations and policymakers seeking to enhance visibility, timing, and effectiveness of tourism promotion in the digital era.
